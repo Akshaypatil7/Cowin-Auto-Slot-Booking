@@ -17,4 +17,6 @@
 3. Then it will ask otp after some seconds.
 4. And at last it will Automatically book a slot within some seconds if vaccine is Available, and speak an audio msg - 'Vaccine Booked Successfully!'.
 
+Note: this only schedules vaccine for the next day
+
 
