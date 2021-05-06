@@ -1,5 +1,5 @@
 # Cowin-Auto-Slot-Booking
-## Python based Cowin website automatic slot booking for Covisheild and Covaxin.
+## Python based Cowin website automatic slot booking for Covid19 Vaccines - Covisheild and Covaxin.
 ### System  Requirements:
  1. Install the python library mentioned in the requirements.txt.
  2. Chromedriver.exe - Download it from this link - https://chromedriver.chromium.org/ - Download the latest stable release and unzip it to a folder.
