@@ -4,9 +4,9 @@
 # In[3]:
 
 
-pincode = '413102'
-age = '18' #45 or 18
-mobile_number = '7743821001'
+pincode = ''
+age = '' #45 or 18
+mobile_number = ''
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 # from win32com.client import Dispatch
